@@ -7,7 +7,12 @@
   <ul>
   <li>🔭 I’m currently working on my personal project (app-book-release // Ed-Mundo)</li>
   <li>🌱 I’m currently learning everything 🧠</li>
-  <li>📫 How to reach me: pani77sps@gmail.com</li>
+  <li>📫 How to reach me:
+    <a href="mailto:pani77sps@gmail.com">pani77sps@gmail.com</a>
+    </li>
+  <li>📄 Know about my experiences 
+    <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/</a>
+</li>
   <li>⚡ Fun fact: read 📖, basketball 🏀 and padel 🎾</li>
   <h1>🌐 Languages and Tools :</h1>
   <p align="center">
