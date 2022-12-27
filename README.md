@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Hey There! 👋, </h1>
-  <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front end web developer</h3>
+  <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front-end web developer</h3>
   <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>  
   
  </div>
@@ -13,7 +13,7 @@
   <li>📄 Know about my experiences 
     <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/</a>
 </li>
-  <li>⚡ Fun fact: read 📖, basketball 🏀 and padel 🎾</li>
+  <li>⚡ Fun fact: nickname (Pani), Lima 🐾🐶 , read 📖, basketball 🏀 & padel 🎾</li>
   <h1>🌐 Languages and Tools :</h1>
   <p align="center">
   <a href="https://beta.reactjs.org/">
@@ -53,7 +53,6 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spanioulis)](https://github.com/anuraghazra/github-readme-stats)
  
 
 <!-- 
