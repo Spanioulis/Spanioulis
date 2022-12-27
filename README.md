@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <h1 align="center">Hey There! 👋, </h1>
-  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>  
   <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front end web developer</h3>
+  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>  
+  
  </div>
   <ul>
   <li>🔭 I’m currently working on my personal project (app-book-release // Ed-Mundo)</li>
@@ -9,7 +10,6 @@
   <li>📫 How to reach me: pani77sps@gmail.com</li>
   <li>⚡ Fun fact: read 📖, basketball 🏀 and padel 🎾</li>
   <h1>🌐 Languages and Tools :</h1>
-  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap,tailwind,nodejs,vscode,git,github)](https://skillicons.dev)
   <p align="center">
   <a href="https://beta.reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" />
@@ -17,9 +17,38 @@
       <a href="https://javascript.info/">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-      </a>
-      <a href="">
-    <img src="https://skillicons.dev/icons?i=" />
+      <a href="https://www.typescriptlang.org/">
+    <img src="https://skillicons.dev/icons?i=ts" />
+  </a>
+      <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+          <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+          <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+          <a href="https://tailwindcss.com/">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+          <a href="https://nodejs.org/en/">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+    
+          <a href="https://code.visualstudio.com/">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+    
+          <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+    
+          <a href="https://github.com/Spanioulis?tab=repositories">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+              <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
  
