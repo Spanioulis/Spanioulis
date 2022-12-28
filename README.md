@@ -11,7 +11,7 @@
     <a href="mailto:pani77sps@gmail.com">pani77sps@gmail.com</a>
     </li>
   <li>📄 Know about my experiences 
-    <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/</a>
+    <a href="https://www.linkedin.com/in/sergio-paniagua-sanchez/">https://www.linkedin.com/in/sergio-paniagua-sanchez/</a>
 </li>
   <li>⚡ Fun fact: nickname (Pani), Lima 🐾🐶 , read 📖, basketball 🏀 & padel 🎾</li>
   <h1>🌐 Languages and Tools :</h1>
