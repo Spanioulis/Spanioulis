@@ -3,7 +3,7 @@
   <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front-end web developer</h3>
   <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>  
   
- </div style="margin-top: "1rem";">
+ </div style="margin-top: 16px">
   <ul>
   <li>🔭 I’m currently working on my personal project (app-book-release // Ed-Mundo)</li>
   <li>🌱 I’m currently learning everything 🧠</li>
