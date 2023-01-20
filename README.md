@@ -1,9 +1,9 @@
 <div id="header" align="center">
   <h1 align="center">Hey There! 👋 </h1>
   <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front-end web developer</h3>
-  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/> </br>
+  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>
   
- </div style="margin-top: 16px">
+ </div  style="margin-top:1rem">
   <ul>
   <li>🔭 I’m currently working on my personal project <a href="https://github.com/Spanioulis/app-book-released">app-book-release</a> [Ed-Mundo]</li>
   <li>🌱 I’m currently learning everything 🧠</li>
