@@ -19,37 +19,43 @@
   <a href="https://beta.reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
-      <a href="https://javascript.info/">
+  <a href="https://javascript.info/">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
-      <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
-      <a href="https://developer.mozilla.org/es/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML">
     <img src="https://skillicons.dev/icons?i=html" />
   </a>
-          <a href="https://developer.mozilla.org/es/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS">
     <img src="https://skillicons.dev/icons?i=css" />
   </a>
-          <a href="https://getbootstrap.com/">
+  <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
-          <a href="https://tailwindcss.com/">
+  <a href="https://tailwindcss.com/">
     <img src="https://skillicons.dev/icons?i=tailwind" />
   </a>
-          <a href="https://nodejs.org/en/">
+  <a href="https://styled-components.com/">
+    <img src="https://skillicons.dev/icons?i=styledcomponents" />
+  </a>
+  <a href="https://nodejs.org/en/">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-          <a href="https://code.visualstudio.com/">
+  <a href="https://firebase.google.com/">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://code.visualstudio.com/">
     <img src="https://skillicons.dev/icons?i=vscode" />
   </a>
-          <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/">
     <img src="https://skillicons.dev/icons?i=git" />
   </a>
-          <a href="https://github.com/Spanioulis?tab=repositories">
-    <img src="https://skillicons.dev/icons?i=github" />
+  <a href="https://github.com/Spanioulis?tab=repositories">
+     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-              <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">
+  <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
