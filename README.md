@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <h1 align="center">Hey There! 👋 </h1>
   <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front-end web developer</h3>
-  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>  
+  <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/> </br>
   
  </div style="margin-top: 16px">
   <ul>
