@@ -19,6 +19,9 @@
   <a href="https://beta.reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+  <a href="https://redux.js.org/">
+    <img src="https://skillicons.dev/icons?i=redux" />
+  </a>
   <a href="https://javascript.info/">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
