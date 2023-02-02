@@ -46,7 +46,10 @@
   </a>
   <a href="https://styled-components.com/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216312780-02dd8249-01b0-4eb8-8e37-82a145cd0f2c.svg" width="52px" height="52px"/>
-  </a>  
+  </a>
+  <a href="https://git-scm.com/" style="text-decoration: none">
+    <img src="https://user-images.githubusercontent.com/97700906/216311772-f63aff81-b4a3-492f-bb5f-393299ca23db.svg" width="56px" height="56px"/>
+  </a>
   <a href="https://vitejs.dev/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216313831-b0de2d92-a277-430b-af67-35c8d2c40bb0.svg" width="52px" height="52px"/>
   </a>
@@ -58,9 +61,6 @@
   </a>
   <a href="https://code.visualstudio.com/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216311864-b74bee46-dde4-426b-812b-3b69e89a7614.svg" width="50px" height="50px"/>
-  </a>
-  <a href="https://git-scm.com/" style="text-decoration: none">
-    <img src="https://user-images.githubusercontent.com/97700906/216311772-f63aff81-b4a3-492f-bb5f-393299ca23db.svg" width="56px" height="56px"/>
   </a>
 </p>
   <div id="header" align="center">
