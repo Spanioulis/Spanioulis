@@ -3,7 +3,8 @@
   <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front-end web developer</h3>
   <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>
   
- </div  style="margin-top:2rem">
+ </div>
+ <div style="margin-top:2rem">
   <ul>
   <li>🔭 I’m currently working on my personal project <a href="https://github.com/Spanioulis/app-book-released">app-book-release</a> [Ed-Mundo]</li>
   <li>🌱 I’m currently learning everything 🧠</li>
@@ -12,13 +13,19 @@
     </li>
   <li>📄 Know about my experiences 
     <a href="https://www.linkedin.com/in/sergio-paniagua-sanchez/">https://www.linkedin.com/in/sergio-paniagua-sanchez/</a>
-</li>
+  </li>
   <li>⚡ Fun fact: nickname (Pani), Lima 🐾🐶 , read 📖, basketball 🏀 & padel 🎾</li>
+  </ul>
+ </div>
+   
   <h1>🌐 Languages and Tools :</h1>
   <p align="center">
+  ![https://user-images.githubusercontent.com/97700906/216308156-f85a067e-808d-4f86-901f-9d66707cbfb3.svg](https://beta.reactjs.org/)
+  
   <a href="https://beta.reactjs.org/">
     <img src="https://skillicons.dev/icons?i=react" />
   </a>
+
   <a href="https://redux.js.org/">
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
