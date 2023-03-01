@@ -6,7 +6,7 @@
  
  <div style="margin-top: 2rem">
   <ul>
-  <li>🔭 I’m currently working on my personal project <a href="https://github.com/Spanioulis/app-book-released">app-book-release</a> [Ed-Mundo]</li>
+    <li>🔭 I am currently working on a room reservation project <a href="https://github.com/Spanioulis/lab-app">[Lab-App]</a> and actively collaborating in <a href="https://github.com/IT-Academy-BCN/ita-directory">[ITA-directory]</a></li>
   <li>🌱 I’m currently learning everything 🧠</li>
   <li>📫 How to reach me:
     <a href="mailto:pani77sps@gmail.com">pani77sps@gmail.com</a>
