@@ -1,5 +1,7 @@
 <div id="header" align="center">
-  <h1 align="center">Hey There! 👋 </h1>
+  <img src="https://user-images.githubusercontent.com/97700906/224072082-0b32093c-21fb-4da9-910d-770fe245dfc1.gif" width="400" style="border-radius: 50%;"/>
+  
+  <h1 align="center">Hi everyone! 👋 </h1>
   <h3>👨 I'm Spanioulis (Sergio Paniagua) - I'm a front-end web developer</h3>
   <img src="https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif](https://media.giphy.com/media/3owzW5c1tPq63MPmWk/giphy.gif" width="400" style="border-radius: 50%;"/>
  </div>
