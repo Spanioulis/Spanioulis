@@ -8,7 +8,7 @@
  
  <div style="margin-top: 2rem">
   <ul>
-    <li>🔭 I am currently working on a room reservation project <a href="https://github.com/Spanioulis/lab-app">[Lab-App]</a> and actively collaborating in <a href="https://github.com/IT-Academy-BCN/ita-directory">[ITA-directory]</a></li>
+    <li>🔭 I am currently working on a lab booking project <a href="https://github.com/Spanioulis/lab-app">[Lab-App]</a> and working daily on <a href="https://github.com/IT-Academy-BCN/ita-wiki">[ITA-Wiki]
   <li>🌱 I’m currently learning everything 🧠</li>
   <li>📫 How to reach me:
     <a href="mailto:pani77sps@gmail.com">pani77sps@gmail.com</a>
@@ -25,6 +25,8 @@
   <a href="https://beta.reactjs.org/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216308156-f85a067e-808d-4f86-901f-9d66707cbfb3.svg" width="52px" height="52px"/>
   </a>
+    
+
   <a href="https://redux.js.org/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216309833-fdf66a92-a9c5-4b9b-9b9f-50e335892a10.svg" width="52px" height="52px"/>
   </a>
@@ -39,6 +41,15 @@
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216311170-2da2f16f-f51e-4b1b-bba3-5d39710118dd.svg" width="52px" height="52px"/>
+  </a>
+  <a href="https://jestjs.io/" style="text-decoration: none">
+    <img src="https://user-images.githubusercontent.com/97700906/227979779-7e3166de-021a-4ee5-b981-ca26deaf1677.svg" width="52px" height="52px"/>
+  </a>
+  <a href="https://testing-library.com/" style="text-decoration: none">
+    <img src="https://user-images.githubusercontent.com/97700906/227980619-9376813e-1c32-4ec5-ba7f-82a52ef93453.png" width="52px" height="52px"/>
+  </a>
+  <a href="https://vitest.dev/" style="text-decoration: none">
+    <img src="https://user-images.githubusercontent.com/97700906/227981534-e3c7652d-098e-45ae-a056-e0f70391a8a4.png" width="52px" height="52px"/>
   </a>
   <a href="https://getbootstrap.com/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216311248-cae96156-bde6-4e8a-89b0-4698cf7e0092.svg" width="56px" height="56px"/>
