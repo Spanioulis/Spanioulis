@@ -25,8 +25,6 @@
   <a href="https://beta.reactjs.org/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216308156-f85a067e-808d-4f86-901f-9d66707cbfb3.svg" width="52px" height="52px"/>
   </a>
-    
-
   <a href="https://redux.js.org/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216309833-fdf66a92-a9c5-4b9b-9b9f-50e335892a10.svg" width="52px" height="52px"/>
   </a>
@@ -35,6 +33,9 @@
   </a>
   <a href="https://www.typescriptlang.org/" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216310343-01211d06-7810-404a-9253-174243c57011.svg" width="52px" height="52px"/>
+  </a>
+  <a href="https://nextjs.org/" style="text-decoration: none">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/97700906/238589812-5938ec27-4694-41b1-b7a0-ad2e2a3dca4d.svg" width="52px" height="52px"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" style="text-decoration: none">
     <img src="https://user-images.githubusercontent.com/97700906/216310960-b2ae975e-2859-41d5-9ab5-57e2ec435d47.svg" width="52px" height="52px"/>
