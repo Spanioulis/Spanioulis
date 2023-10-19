@@ -82,7 +82,7 @@
    <a href="https://github.com/Spanioulis?tab=repositories">
      <img src="https://user-images.githubusercontent.com/97700906/216315750-8e21283a-1ba9-41d8-a9cc-b447e5c684a5.svg" width="52px" height="52px"/>
   </a>
-  <a href="https://www.linkedin.com/in/sergio-paniagua-s%C3%A1nchez/">
+  <a href="https://www.linkedin.com/in/sergio-paniagua-sanchez/">
     <img src="https://user-images.githubusercontent.com/97700906/216312018-7342156f-fae5-4610-a473-240db49a35da.svg" width="52px" height="52px"/>
   </a>
     </p>
